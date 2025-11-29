@@ -16,6 +16,8 @@ node javascript/1.5-operaciones-listas.js
 node javascript/2.1-orden-superior.js
 node javascript/2.3-recomendaciones.js
 
+### JavaScript
+
 # Ejecutar ejercicios en Scala
 scala scala/1.2-inmutabilidad.scala
 scala scala/1.4-funciones-vs-metodos.scala
